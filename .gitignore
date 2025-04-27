@@ -1,0 +1,4 @@
+node_modules
+# Keep environment variabl
+.env
+package-lock.json
